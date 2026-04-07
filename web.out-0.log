@@ -1,0 +1,148 @@
+2026-04-06T16:45:49:    ▲ Next.js 15.5.14
+2026-04-06T16:45:49:    - Local:        http://localhost:3000
+2026-04-06T16:45:49:    - Network:      http://10.1.30.113:3000
+2026-04-06T16:45:49: 
+2026-04-06T16:45:49:  ✓ Starting...
+2026-04-06T16:45:50:  ✓ Ready in 595ms
+2026-04-06T16:48:16:    ▲ Next.js 15.5.14
+2026-04-06T16:48:16:    - Local:        http://localhost:3000
+2026-04-06T16:48:16:    - Network:      http://10.1.30.113:3000
+2026-04-06T16:48:16: 
+2026-04-06T16:48:16:  ✓ Starting...
+2026-04-06T16:48:16:  ✓ Ready in 587ms
+2026-04-06T16:57:59:    ▲ Next.js 15.5.14
+2026-04-06T16:57:59:    - Local:        http://localhost:3000
+2026-04-06T16:57:59:    - Network:      http://10.1.30.113:3000
+2026-04-06T16:57:59: 
+2026-04-06T16:57:59:  ✓ Starting...
+2026-04-06T16:58:00:  ✓ Ready in 591ms
+2026-04-06T17:04:25:    ▲ Next.js 15.5.14
+2026-04-06T17:04:25:    - Local:        http://localhost:3000
+2026-04-06T17:04:25:    - Network:      http://10.1.30.113:3000
+2026-04-06T17:04:25: 
+2026-04-06T17:04:25:  ✓ Starting...
+2026-04-06T17:04:26:  ✓ Ready in 595ms
+2026-04-06T17:24:41:    ▲ Next.js 15.5.14
+2026-04-06T17:24:41:    - Local:        http://localhost:3000
+2026-04-06T17:24:41:    - Network:      http://10.1.30.113:3000
+2026-04-06T17:24:41: 
+2026-04-06T17:24:41:  ✓ Starting...
+2026-04-06T17:24:41:  ✓ Ready in 591ms
+2026-04-06T17:29:35: [EvalQueue] Recovered 1 stuck PROCESSING submission(s) -> PENDING (retryCount incremented)
+2026-04-06T17:31:41:    ▲ Next.js 15.5.14
+2026-04-06T17:31:41:    - Local:        http://localhost:3000
+2026-04-06T17:31:41:    - Network:      http://10.1.30.113:3000
+2026-04-06T17:31:41: 
+2026-04-06T17:31:41:  ✓ Starting...
+2026-04-06T17:31:41:  ✓ Ready in 587ms
+2026-04-06T18:02:01: [EvalQueue] Recovered 1 stuck PROCESSING submission(s) -> PENDING (retryCount incremented)
+2026-04-06T18:03:41:    ▲ Next.js 15.5.14
+2026-04-06T18:03:41:    - Local:        http://localhost:3000
+2026-04-06T18:03:41:    - Network:      http://10.1.30.113:3000
+2026-04-06T18:03:41: 
+2026-04-06T18:03:41:  ✓ Starting...
+2026-04-06T18:03:41:  ✓ Ready in 589ms
+2026-04-06T18:08:05: [EvalQueue] Recovered 1 stuck PROCESSING submission(s) -> PENDING (retryCount incremented)
+2026-04-07T03:19:31: prisma:error 
+2026-04-07T03:19:31: Invalid `prisma.submission.findMany()` invocation:
+2026-04-07T03:19:31: 
+2026-04-07T03:19:31: 
+2026-04-07T03:19:31: Can't reach database server at `pg-1b41ce91-sripadmavathi2004-d911.d.aivencloud.com:15875`
+2026-04-07T03:19:31: 
+2026-04-07T03:19:31: Please make sure your database server is running at `pg-1b41ce91-sripadmavathi2004-d911.d.aivencloud.com:15875`.
+2026-04-07T05:37:42:    ▲ Next.js 15.5.14
+2026-04-07T05:37:42:    - Local:        http://localhost:3000
+2026-04-07T05:37:42:    - Network:      http://10.1.30.113:3000
+2026-04-07T05:37:42: 
+2026-04-07T05:37:42:  ✓ Starting...
+2026-04-07T05:37:42:  ✓ Ready in 594ms
+2026-04-07T05:42:18: prisma:error Error in PostgreSQL connection: Error { kind: Io, cause: Some(Os { code: 104, kind: ConnectionReset, message: "Connection reset by peer" }) }
+2026-04-07T05:42:18: prisma:error 
+2026-04-07T05:42:18: Invalid `prisma.submission.findFirst()` invocation:
+2026-04-07T05:42:18: 
+2026-04-07T05:42:18: 
+2026-04-07T05:42:18: Server has closed the connection.
+2026-04-07T05:47:02: [EvalQueue] Recovered 1 stuck PROCESSING submission(s) -> PENDING (retryCount incremented)
+2026-04-07T05:48:42:    ▲ Next.js 15.5.14
+2026-04-07T05:48:42:    - Local:        http://localhost:3000
+2026-04-07T05:48:42:    - Network:      http://10.1.30.113:3000
+2026-04-07T05:48:42: 
+2026-04-07T05:48:42:  ✓ Starting...
+2026-04-07T05:48:42:  ✓ Ready in 590ms
+2026-04-07T05:53:21: [EvalQueue] Recovered 1 stuck PROCESSING submission(s) -> PENDING (retryCount incremented)
+2026-04-07T05:55:12:    ▲ Next.js 15.5.14
+2026-04-07T05:55:12:    - Local:        http://localhost:3000
+2026-04-07T05:55:12:    - Network:      http://10.1.30.113:3000
+2026-04-07T05:55:12: 
+2026-04-07T05:55:12:  ✓ Starting...
+2026-04-07T05:55:12:  ✓ Ready in 582ms
+2026-04-07T06:00:44: [EvalQueue] Recovered 1 stuck PROCESSING submission(s) -> PENDING (retryCount incremented)
+2026-04-07T08:38:06: prisma:error Error in PostgreSQL connection: Error { kind: Io, cause: Some(Os { code: 104, kind: ConnectionReset, message: "Connection reset by peer" }) }
+2026-04-07T08:38:06: prisma:error 
+2026-04-07T08:38:06: Invalid `prisma.submission.findMany()` invocation:
+2026-04-07T08:38:06: 
+2026-04-07T08:38:06: 
+2026-04-07T08:38:06: Server has closed the connection.
+2026-04-07T08:47:42:    ▲ Next.js 15.5.14
+2026-04-07T08:47:42:    - Local:        http://localhost:3000
+2026-04-07T08:47:42:    - Network:      http://10.1.30.113:3000
+2026-04-07T08:47:42: 
+2026-04-07T08:47:42:  ✓ Starting...
+2026-04-07T08:47:42:  ✓ Ready in 580ms
+2026-04-07T08:48:06: [EvalQueue] Recovered 1 stuck PROCESSING submission(s) -> PENDING (retryCount incremented)
+2026-04-07T08:55:54:    ▲ Next.js 15.5.14
+2026-04-07T08:55:54:    - Local:        http://localhost:3000
+2026-04-07T08:55:54:    - Network:      http://10.1.30.113:3000
+2026-04-07T08:55:54: 
+2026-04-07T08:55:54:  ✓ Starting...
+2026-04-07T08:55:55:  ✓ Ready in 592ms
+2026-04-07T08:56:23: [EvalQueue] Recovered 1 stuck PROCESSING submission(s) -> PENDING (retryCount incremented)
+2026-04-07T09:00:01:    ▲ Next.js 15.5.14
+2026-04-07T09:00:01:    - Local:        http://localhost:3000
+2026-04-07T09:00:01:    - Network:      http://10.1.30.113:3000
+2026-04-07T09:00:01: 
+2026-04-07T09:00:01:  ✓ Starting...
+2026-04-07T09:00:02:  ✓ Ready in 599ms
+2026-04-07T09:02:09: [EvalQueue] Recovered 1 stuck PROCESSING submission(s) -> PENDING (retryCount incremented)
+2026-04-07T09:19:53:    ▲ Next.js 15.5.14
+2026-04-07T09:19:53:    - Local:        http://localhost:3000
+2026-04-07T09:19:53:    - Network:      http://10.1.30.113:3000
+2026-04-07T09:19:53: 
+2026-04-07T09:19:53:  ✓ Starting...
+2026-04-07T09:19:53:  ✓ Ready in 593ms
+2026-04-07T09:43:46:    ▲ Next.js 15.5.14
+2026-04-07T09:43:46:    - Local:        http://localhost:3000
+2026-04-07T09:43:46:    - Network:      http://10.1.30.113:3000
+2026-04-07T09:43:46: 
+2026-04-07T09:43:46:  ✓ Starting...
+2026-04-07T09:43:47:  ✓ Ready in 589ms
+2026-04-07T09:57:29:    ▲ Next.js 15.5.14
+2026-04-07T09:57:29:    - Local:        http://localhost:3000
+2026-04-07T09:57:29:    - Network:      http://10.1.30.113:3000
+2026-04-07T09:57:29: 
+2026-04-07T09:57:29:  ✓ Starting...
+2026-04-07T09:57:30:  ✓ Ready in 597ms
+2026-04-07T09:59:30:    ▲ Next.js 15.5.14
+2026-04-07T09:59:30:    - Local:        http://localhost:3000
+2026-04-07T09:59:30:    - Network:      http://10.1.30.113:3000
+2026-04-07T09:59:30: 
+2026-04-07T09:59:30:  ✓ Starting...
+2026-04-07T09:59:31:  ✓ Ready in 590ms
+2026-04-07T10:23:42:    ▲ Next.js 15.5.14
+2026-04-07T10:23:42:    - Local:        http://localhost:3000
+2026-04-07T10:23:42:    - Network:      http://10.1.30.113:3000
+2026-04-07T10:23:42: 
+2026-04-07T10:23:42:  ✓ Starting...
+2026-04-07T10:23:42:  ✓ Ready in 595ms
+2026-04-07T10:45:53:    ▲ Next.js 15.5.14
+2026-04-07T10:45:53:    - Local:        http://localhost:3000
+2026-04-07T10:45:53:    - Network:      http://10.1.30.113:3000
+2026-04-07T10:45:53: 
+2026-04-07T10:45:53:  ✓ Starting...
+2026-04-07T10:45:54:  ✓ Ready in 583ms
+2026-04-07T10:52:04:    ▲ Next.js 15.5.14
+2026-04-07T10:52:04:    - Local:        http://localhost:3000
+2026-04-07T10:52:04:    - Network:      http://10.1.30.113:3000
+2026-04-07T10:52:04: 
+2026-04-07T10:52:04:  ✓ Starting...
+2026-04-07T10:52:05:  ✓ Ready in 594ms
